@@ -1,6 +1,7 @@
 React Form on with "React Hot Boilerplate"
 =====================
-see https://github.com/gaearon/react-hot-boilerplate
+origin https://github.com/gaearon/react-hot-boilerplate
+
 The minimal dev environment to enable live-editing React components + login form
 
 ### Usage
