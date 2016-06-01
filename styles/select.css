@@ -1,0 +1,38 @@
+.professions-field {
+}
+.professions-field.focus {
+}
+.dropdown-select {
+	display: none;
+	position: absolute;
+	width: 100%;
+	background-color: #fff;
+	z-index: 100;
+	top: 68px;
+	border: solid #D5D5D5 1px;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+
+.dropdown-select.open{
+	display: block;
+}
+
+.dropdown-select .select-item {
+	padding: 10px 15px;
+	cursor: pointer;
+}
+
+.dropdown-select .select-item a {
+	color: #333;
+}
+.dropdown-select .select-item a:hover {
+	text-decoration: none;
+}
+.form-group.profession-group {
+	position: relative;
+}
+.form-control.profession {
+	position: relative;
+	z-index: 110;
+}
